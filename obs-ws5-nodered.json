@@ -1,0 +1,2847 @@
+[
+    {
+        "id": "5b815b6cb5903122",
+        "type": "tab",
+        "label": "FUCTIONS WS-5",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "4ddc01a26615a093",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "name": "GENERAL REQUESTS",
+        "style": {
+            "fill": "#ffbfbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "21cdf5bf29e56ba1",
+            "7df373105ca9a42d",
+            "67c169544768fc78",
+            "b3f53247249a4da5",
+            "0138044426e49694"
+        ],
+        "x": 94,
+        "y": 479,
+        "w": 312,
+        "h": 242
+    },
+    {
+        "id": "53681406e741b17a",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "name": "CONFIG REQUEST",
+        "style": {
+            "fill": "#ffbfbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "37372eaf137ec274",
+            "7263b2b67d237f12",
+            "8cee851eef2cd3eb",
+            "637b3c20dba66079",
+            "83691b5d1c1e0e3b",
+            "19a2ba7d11a31366",
+            "9ac1ba3324baa42b",
+            "5d81480329d02350",
+            "cbdb684de79cba91",
+            "a8e0e7e44ef74cc6",
+            "637bab4536a0fd4c",
+            "cc333b248f7f6d4c",
+            "5727c33d5c34e532",
+            "e0205f7ec48d8b6e"
+        ],
+        "x": 89,
+        "y": 798,
+        "w": 373,
+        "h": 663
+    },
+    {
+        "id": "a7f130c3f9b15a88",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "name": "SOURCES REQUESTS",
+        "style": {
+            "fill": "#ffbfbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "a8a014b242063907",
+            "8f348d8edfca11c8",
+            "ea282e417dc50182"
+        ],
+        "x": 90,
+        "y": 1540,
+        "w": 272,
+        "h": 162
+    },
+    {
+        "id": "cda953e4a1819c7d",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "name": "SCENES REQUESTS",
+        "style": {
+            "fill": "#ffbfbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "1d432fe454ca36df",
+            "14c898038e17f51f",
+            "7653b09d178dba0c",
+            "1be867d1696274ed",
+            "8171e7c40e6ec31d",
+            "fcc304b3f6f851f3",
+            "32bb8453288910f2",
+            "3c2725526186e9ec",
+            "e347b7c95f3e7ba4",
+            "e8bf58007288668f",
+            "de26a1033122bfe6"
+        ],
+        "x": 89,
+        "y": 1783,
+        "w": 332,
+        "h": 562
+    },
+    {
+        "id": "974bd3e1d8bc91dd",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "name": "INPUTS REQUESTS",
+        "style": {
+            "fill": "#ffbfbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "bcf107b45b688677",
+            "83ae520793908126",
+            "cc49574a863287b0",
+            "f4f2742ebb86f82d",
+            "85e906dcc802d2b4",
+            "d87e44ed3f6d9287",
+            "c2c3602871ed4905",
+            "9263f6c1eebf2a26",
+            "e54c6e1c7d6847b9",
+            "789478d23bb985bf",
+            "ca2420be6b3dfcc7",
+            "afcb8b887c909edb",
+            "4d04aeecb7c93c92",
+            "c1cb552c7c536256",
+            "9b860ef588c3000e",
+            "a679dd9e58f0f7a1",
+            "25ac58f6d07ca665",
+            "522405e1ef2d8d1f",
+            "d4758f77038ef079",
+            "b8d58d5631fe5184",
+            "c1066442ada4f2b0",
+            "0c95e830c7bdd695",
+            "4715d9c666b2ed04",
+            "00afdcb7304b17ae"
+        ],
+        "x": 506,
+        "y": 475,
+        "w": 352,
+        "h": 1222
+    },
+    {
+        "id": "da92487f39b8e786",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "name": "TRANSITIONS REQUESTS",
+        "style": {
+            "fill": "#ffbfbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "637f2145d13d35bf",
+            "6ee043768e3ca7f9",
+            "1a3c2516197362ea",
+            "6e38da2c251296bf",
+            "399d1f0db48686a3",
+            "5301b1fc7f894cfb",
+            "fe0273a9761b6422"
+        ],
+        "x": 509,
+        "y": 1786,
+        "w": 352,
+        "h": 342
+    },
+    {
+        "id": "aee1c29fe230095b",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "name": "FILTERS REQUESTS",
+        "style": {
+            "fill": "#ffbfbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "b38e5b80f9eb15c0",
+            "792f279f3615ab60",
+            "ec131c1dfb50b0b0",
+            "0a4625e7a2cddfe1",
+            "afbbadb63bb65fdc",
+            "bebbe24211585169",
+            "c2df16108be4476e",
+            "0574cb8901a7f2e8",
+            "c86ba963232ed95f"
+        ],
+        "x": 915,
+        "y": 478,
+        "w": 312,
+        "h": 442
+    },
+    {
+        "id": "5763ff859938577f",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "name": "SCENE ITEMS REQUESTS",
+        "style": {
+            "fill": "#ffbfbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "3ee306e6ef6044b3",
+            "f02eccceb67a75e2",
+            "36dcfae99c267133",
+            "b9e78635aa2b3167",
+            "515b165173a82c2b",
+            "fc75217189316131",
+            "804f31bb4e7eaed6",
+            "c2e5b3a778ea5034",
+            "1ae15d226f0547d1",
+            "1e7f76c13d3d28ae",
+            "26fe3c2220bc845b",
+            "b59408634f3b23ec",
+            "1d5f8c2134d6a535",
+            "918e6324c1ae1d7c",
+            "40954f1fba6581c6",
+            "26cf766962b2dc2d"
+        ],
+        "x": 921,
+        "y": 959,
+        "w": 279,
+        "h": 682
+    },
+    {
+        "id": "a521184342964cb3",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "name": "OUTPUTS REQUESTS",
+        "style": {
+            "fill": "#ffbfbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "566423695d69e287",
+            "22d254a7d17d66b7",
+            "988830dd0b89f793",
+            "963f8c4c842ab9b5",
+            "cbe7ddc919a02269",
+            "2dc74ab443fbb0d6",
+            "6a692a87d6e5c330",
+            "f5ea52deb3baaf52",
+            "08a4c6d3a10093e1",
+            "7174948426dc3db7",
+            "f235e79a17db9916",
+            "65cdbd08dd5e700b",
+            "b54a7f7605112af9",
+            "31c8f292ae2b7cb1",
+            "84fba8d512792fa5",
+            "f6d0b4d2c34aec28",
+            "d18ff51c46fe21ba"
+        ],
+        "x": 908,
+        "y": 1689,
+        "w": 302,
+        "h": 722
+    },
+    {
+        "id": "cd0f422a6d2d4849",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "name": "MEDIA INPUTS REQUESTS",
+        "style": {
+            "fill": "#ffbfbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "96b4b633b8467911",
+            "6f5a8288b38bab03",
+            "92c35d9ce220e211",
+            "ad23928b5e82ca44"
+        ],
+        "x": 1279,
+        "y": 482,
+        "w": 272,
+        "h": 202
+    },
+    {
+        "id": "2b62a6b03fdce6ee",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "name": "UI REQUESTS",
+        "style": {
+            "fill": "#ffbfbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "74c94370cbc8d0d8",
+            "471698419a9c73e9",
+            "007077afd6df2247",
+            "8bb24ecd0d68cfe6",
+            "f06d2c927218384c",
+            "fc768cd5fcfd1120",
+            "16e6cc6467b581f8",
+            "4bc6e8aee0972bba"
+        ],
+        "x": 1274,
+        "y": 765,
+        "w": 292,
+        "h": 362
+    },
+    {
+        "id": "9b3e7e0cd9111331",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "name": "TO OBS WS",
+        "style": {
+            "fill": "#ffbfbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "451ed44180d33305",
+            "ffb94c424fdd5c5e"
+        ],
+        "x": 1274,
+        "y": 279,
+        "w": 412,
+        "h": 82
+    },
+    {
+        "id": "4b93c2d25390126e",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "name": "FROM OBS WS",
+        "style": {
+            "fill": "#ffbfbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "88357b3dcecd5510",
+            "83612b5f0942d440",
+            "3dd401180bf7cec7",
+            "b934d3b359ef3ef7",
+            "96c87a4a6ce229c5",
+            "4025bb4262c60e1a",
+            "c1ea889ec58d356f",
+            "95865c8bc7213993",
+            "4cecb6757143a660",
+            "42b9b8117df8b58e",
+            "455b1744973edb53"
+        ],
+        "x": 96,
+        "y": 19,
+        "w": 1590,
+        "h": 242
+    },
+    {
+        "id": "42b9b8117df8b58e",
+        "type": "group",
+        "z": "5b815b6cb5903122",
+        "g": "4b93c2d25390126e",
+        "name": "Challenge",
+        "style": {
+            "label": true,
+            "fill": "#ff3f3f",
+            "color": "#000000"
+        },
+        "nodes": [
+            "b832a59be1eaa9cf",
+            "89ccb94b2c13f7e2",
+            "ca5dc08a28d44236",
+            "219c45019969c924",
+            "b70e85fe960d37ed"
+        ],
+        "x": 1088,
+        "y": 51,
+        "w": 572,
+        "h": 82
+    },
+    {
+        "id": "21cdf5bf29e56ba1",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "4ddc01a26615a093",
+        "name": "GetVersion",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetVersion\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets data about the current plugin and RPC version.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 190,
+        "y": 520,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7df373105ca9a42d",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "4ddc01a26615a093",
+        "name": "GetStats",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetStats\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets statistics about OBS, obs-websocket, and the current session.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 180,
+        "y": 560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "67c169544768fc78",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "4ddc01a26615a093",
+        "name": "GetHotkeyList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetHotkeyList\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets an array of all hotkey names in OBS",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 200,
+        "y": 600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b3f53247249a4da5",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "4ddc01a26615a093",
+        "name": "TriggerHotkeyByName",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"TriggerHotkeyByName\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"hotkeyName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Triggers a hotkey using its name. See GetHotkeyList",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 229,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0138044426e49694",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "4ddc01a26615a093",
+        "name": "TriggerHotkeyByKeySequence",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"TriggerHotkeyByKeySequence\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n     // \"?keyId\": \"\",\n     // \"??keyModifiers\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Triggers a hotkey using a sequence of keys.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 250,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "37372eaf137ec274",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "GetSceneCollectionList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSceneCollectionList\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets an array of all scene collections",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 227,
+        "y": 839,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7263b2b67d237f12",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "SetCurrentSceneCollection to switch to",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetCurrentSceneCollection\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneCollectionName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Switches to a scene collection.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 276,
+        "y": 879,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8cee851eef2cd3eb",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "CreateSceneCollection",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"CreateSceneCollection\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneCollectionName\": \"STREAM\"\n    }\n  }\n};\n\nreturn msg;\n\n//Creates a new scene collection, switching to it in the process.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 225,
+        "y": 918,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "637b3c20dba66079",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "GetProfileList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetProfileList\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets an array of all profiles",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 197,
+        "y": 979.0000305175781,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "83691b5d1c1e0e3b",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "SetCurrentProfile",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetCurrentProfile\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"profileName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Switches to a profile.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 208,
+        "y": 1018.0000305175781,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "19a2ba7d11a31366",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "CreateProfile",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"CreateProfile\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"profileName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Creates a new profile, switching to it in the process",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 188,
+        "y": 1057,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9ac1ba3324baa42b",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "RemoveProfile",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"RemoveProfile\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"profileName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Removes a profile. If the current profile is chosen, it will change to a different profile first.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 197,
+        "y": 1097,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5d81480329d02350",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "GetProfileParameter",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetProfileParameter\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"parameterCategory\": \"\",\n      \"parameterName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets a parameter from the current profile's configuration.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 217,
+        "y": 1136,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cbdb684de79cba91",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "SetProfileParameter",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetProfileParameter\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"parameterCategory\": \"\",\n      \"parameterName\": \"\",\n      \"parameterValue\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the value of a parameter in the current profile's configuration.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 218,
+        "y": 1177,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a8e0e7e44ef74cc6",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "GetVideoSettings",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetVideoSettings\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets the current video settings.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 211,
+        "y": 1235,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "637bab4536a0fd4c",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "SetVideoSettings",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetVideoSettings\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the current video settings.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 211,
+        "y": 1271,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cc333b248f7f6d4c",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "GetStreamServiceSettings",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetStreamServiceSettings\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets the current stream service settings (stream destination).",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 242,
+        "y": 1327,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5727c33d5c34e532",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "SetStreamServiceSettings",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetStreamServiceSettings\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"streamServiceType\": \"\",\n      \"streamServiceSettings\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the current stream service settings (stream destination).",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 241,
+        "y": 1365,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e0205f7ec48d8b6e",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "53681406e741b17a",
+        "name": "GetRecordDirectory",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetRecordDirectory\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets the current directory that the record output is set to.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 219,
+        "y": 1420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a8a014b242063907",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a7f130c3f9b15a88",
+        "name": "GetSourceActive",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSourceActive\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sourceName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n\n//Gets the active and show state of a source.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 206,
+        "y": 1581,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8f348d8edfca11c8",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a7f130c3f9b15a88",
+        "name": "GetSourceScreenshot",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSourceScreenshot\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sourceName\": \"\",\n      \"imageFormat\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n// get a Base64 encoded screenshot of a source",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 216,
+        "y": 1621,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ea282e417dc50182",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a7f130c3f9b15a88",
+        "name": "SaveSourceScreenshot",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SaveSourceScreenshot\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sourceName\": \"\",\n      \"imageFormat\": \"\",\n      \"imageFilePath\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n// Saves a screenshot of a source to the filesystem.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 226,
+        "y": 1661,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1d432fe454ca36df",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cda953e4a1819c7d",
+        "name": "GetSceneList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSceneList\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n\n//Gets an array of all scenes in OBS.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 195,
+        "y": 1824,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "14c898038e17f51f",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cda953e4a1819c7d",
+        "name": "GetGroupList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetGroupList\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n\n//Gets an array of all groups in OBS.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 195,
+        "y": 1864,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7653b09d178dba0c",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cda953e4a1819c7d",
+        "name": "GetCurrentProgramScene",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetCurrentProgramScene\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n\n//Gets the current program scene.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 235,
+        "y": 1924,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1be867d1696274ed",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cda953e4a1819c7d",
+        "name": "SetCurrentProgramScene",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetCurrentProgramScene\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\"\n    }\n  }\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 234,
+        "y": 1964,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8171e7c40e6ec31d",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cda953e4a1819c7d",
+        "name": "GetCurrentPreviewScene",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetCurrentPreviewScene\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n\n//Gets the current preview scene.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 225,
+        "y": 2024,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fcc304b3f6f851f3",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cda953e4a1819c7d",
+        "name": "SetCurrentPreviewScene",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetCurrentPreviewScene\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\"\n    }\n  }\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 225,
+        "y": 2064,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "32bb8453288910f2",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cda953e4a1819c7d",
+        "name": "CreateScene",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"CreateScene\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\"\n    }\n  }\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 195,
+        "y": 2124,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3c2725526186e9ec",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cda953e4a1819c7d",
+        "name": "RemoveScene",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"RemoveScene\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\"\n    }\n  }\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 195,
+        "y": 2164,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e347b7c95f3e7ba4",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cda953e4a1819c7d",
+        "name": "SetSceneName (rename)",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetSceneName\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"newSceneName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n\n//Sets the name of a scene (rename).",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 225,
+        "y": 2204,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e8bf58007288668f",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cda953e4a1819c7d",
+        "name": "GetSceneSceneTransitionOverride",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSceneSceneTransitionOverride\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n\n//Sets the name of a scene (rename).",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 255,
+        "y": 2264,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "de26a1033122bfe6",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cda953e4a1819c7d",
+        "name": "SetSceneSceneTransitionOverride",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetSceneSceneTransitionOverride\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n\n//Gets the scene transition overridden for a scene. see doc for options\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 255,
+        "y": 2304,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bcf107b45b688677",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "GetInputList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetInputList\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets an array of all inputs in OBS.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 602,
+        "y": 516,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "83ae520793908126",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "GetInputKindList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetInputKindList\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets an array of all available input kinds in OBS.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 622,
+        "y": 556,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cc49574a863287b0",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "GetSpecialInputs",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSpecialInputs\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets the names of all special inputs.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 622,
+        "y": 596,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f4f2742ebb86f82d",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "CreateInput",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"CreateInput\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"inputName\": \"\",\n      \"inputKind\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Creates a new input, adding it as a scene item to the specified scene.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 602,
+        "y": 656,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "85e906dcc802d2b4",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "RemoveInput",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"RemoveInput\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Removes an existing input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 602,
+        "y": 696,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d87e44ed3f6d9287",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "SetInputName (rename)",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetInputName\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\",\n      \"newInputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the name of an input (rename).",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 642,
+        "y": 736,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c2c3602871ed4905",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "GetInputDefaultSettings",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetInputDefaultSettings\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputKind\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the default settings for an input kind.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 642,
+        "y": 816,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9263f6c1eebf2a26",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "GetInputSettings",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetInputSettings\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the default settings for an input kind.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 622,
+        "y": 856,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e54c6e1c7d6847b9",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "SetInputSettings",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetInputSettings\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\",\n      \"inputSettings\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the settings of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 621,
+        "y": 895,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "789478d23bb985bf",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "GetInputMute",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetInputMute\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the audio mute state of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 612,
+        "y": 936,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ca2420be6b3dfcc7",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "SetInputMute",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetInputMute\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\",\n      \"inputMuted\": true\n    }\n  }\n};\n\nreturn msg;\n\n\n//Sets the audio mute state of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 612,
+        "y": 976,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "afcb8b887c909edb",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "ToggleInputMute",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"ToggleInputMute\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n\n//Toggles the audio mute state of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 622,
+        "y": 1016,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4d04aeecb7c93c92",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "GetInputVolume",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetInputVolume\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the current volume setting of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 612,
+        "y": 1056,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c1cb552c7c536256",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "SetInputVolume",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetInputVolume\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n\n//Sets the volume setting of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 612,
+        "y": 1096,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9b860ef588c3000e",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "GetInputAudioBalance",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetInputAudioBalance\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the audio balance of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 642,
+        "y": 1176,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a679dd9e58f0f7a1",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "SetInputAudioBalance",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetInputAudioBalance\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\",\n      \"inputAudioBalance\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the audio balance of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 632,
+        "y": 1216,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "25ac58f6d07ca665",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "GetInputAudioSyncOffset",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetInputAudioSyncOffset\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\",\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the audio sync offset of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 642,
+        "y": 1256,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "522405e1ef2d8d1f",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "SetInputAudioSyncOffset",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetInputAudioSyncOffset\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\",\n      \"inputAudioSyncOffset\": \"offest in millisec HERE !!!!!!\"\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the audio sync offset of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 642,
+        "y": 1296,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d4758f77038ef079",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "GetInputAudioMonitorType",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetInputAudioMonitorType\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the audio monitor type of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 652,
+        "y": 1376,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b8d58d5631fe5184",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "SetInputAudioMonitorType",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetInputAudioMonitorType\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\",\n      \"monitorType\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the audio monitor type of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 652,
+        "y": 1416,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c1066442ada4f2b0",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "GetInputAudioTracks",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetInputAudioTracks\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the enable state of all audio tracks of an input.\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 632,
+        "y": 1496,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0c95e830c7bdd695",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "SetInputAudioTracks",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetInputAudioTracks\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\",\n      \"inputAudioTracks\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the enable state of audio tracks of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 632,
+        "y": 1536,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4715d9c666b2ed04",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "GetInputPropertiesListPropertyItems",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetInputPropertiesListPropertyItems\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\",\n      \"propertyName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the items of a list property from an input's properties.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 682,
+        "y": 1616,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "00afdcb7304b17ae",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "974bd3e1d8bc91dd",
+        "name": "PressInputPropertiesButton",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"PressInputPropertiesButton\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\",\n      \"propertyName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Presses a button in the properties of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 652,
+        "y": 1656,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "637f2145d13d35bf",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "da92487f39b8e786",
+        "name": "GetTransitionKindList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetTransitionKindList\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets an array of all available transition kinds.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 635,
+        "y": 1827,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6ee043768e3ca7f9",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "da92487f39b8e786",
+        "name": "GetSceneTransitionList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSceneTransitionList\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets an array of all scene transitions in OBS.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 645,
+        "y": 1867,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1a3c2516197362ea",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "da92487f39b8e786",
+        "name": "GetCurrentSceneTransition",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetCurrentSceneTransition\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets information about the current scene transition.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 655,
+        "y": 1907,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6e38da2c251296bf",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "da92487f39b8e786",
+        "name": "SetCurrentSceneTransition",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetCurrentSceneTransition\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"transitionName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the current scene transition.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 655,
+        "y": 1947,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "399d1f0db48686a3",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "da92487f39b8e786",
+        "name": "SetCurrentSceneTransitionDuration",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetCurrentSceneTransitionDuration\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"transitionDuration\": 100\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the duration of the current scene transition, if it is not fixed.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 685,
+        "y": 1987,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5301b1fc7f894cfb",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "da92487f39b8e786",
+        "name": "SetCurrentSceneTransitionSettings",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetCurrentSceneTransitionSettings\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"transitionSettings\": {}\n    }\n  }\n};\n\nreturn msg;\n\n\n//Sets the settings of the current scene transition.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 684,
+        "y": 2049,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fe0273a9761b6422",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "da92487f39b8e786",
+        "name": "GetCurrentSceneTransitionCursor",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetCurrentSceneTransitionCursor\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets the cursor position of the current scene transition.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 675,
+        "y": 2087,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b38e5b80f9eb15c0",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "aee1c29fe230095b",
+        "name": "GetSourceFilterList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSourceFilterList\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sourceName\": \"LAPTOP\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets an array of all of a source's filters.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1040,
+        "y": 519,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "792f279f3615ab60",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "aee1c29fe230095b",
+        "name": "GetSourceFilterDefaultSettings",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSourceFilterDefaultSettings\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"filterKind\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the default settings for a filter kind.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1071,
+        "y": 559,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ec131c1dfb50b0b0",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "aee1c29fe230095b",
+        "name": "CreateSourceFilter",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"CreateSourceFilter\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sourceName\": \"\",\n      \"filterName\": \"\",\n      \"filterKind\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Creates a new filter, adding it to the specified source.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1031,
+        "y": 599,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0a4625e7a2cddfe1",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "aee1c29fe230095b",
+        "name": "RemoveSourceFilter",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"RemoveSourceFilter\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sourceName\": \"\",\n      \"filterName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Removes a filter from a source.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1041,
+        "y": 639,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "afbbadb63bb65fdc",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "aee1c29fe230095b",
+        "name": "SetSourceFilterName (rename)",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetSourceFilterName\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sourceName\": \"\",\n      \"filterName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the name of a source filter (rename).",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1071,
+        "y": 719,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bebbe24211585169",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "aee1c29fe230095b",
+        "name": "GetSourceFilter",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSourceFilter\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sourceName\": \"\",\n      \"filterName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the info for a specific source filter.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1021,
+        "y": 759,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c2df16108be4476e",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "aee1c29fe230095b",
+        "name": "SetSourceFilterIndex",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetSourceFilterIndex\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sourceName\": \"\",\n      \"filterName\": \"\",\n      \"filterIndex\": 3 // index position\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the index position of a filter on a source.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1041,
+        "y": 799,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0574cb8901a7f2e8",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "aee1c29fe230095b",
+        "name": "SetSourceFilterSettings",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetSourceFilterSettings\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sourceName\": \"\",\n      \"filterName\": \"\",\n      \"filterSettings\": {}\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the enable state of a source filter.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1051,
+        "y": 839,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c86ba963232ed95f",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "aee1c29fe230095b",
+        "name": "SetSourceFilterEnabled",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetSourceFilterEnabled\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sourceName\": \"\",\n      \"filterName\": \"\",\n      \"filterEnabled\": true\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the enable state of a source filter.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1051,
+        "y": 879,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3ee306e6ef6044b3",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "GetSceneItemList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSceneItemList\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets a list of all scene items in a scene.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1037,
+        "y": 1000,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f02eccceb67a75e2",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "GetGroupSceneItemList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetGroupSceneItemList\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Basically GetSceneItemList, but for groups.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1057,
+        "y": 1040,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "36dcfae99c267133",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "GetSceneItemId",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSceneItemId\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sourceName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Searches a scene for a source, and returns its id.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1038,
+        "y": 1079,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b9e78635aa2b3167",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "CreateSceneItem",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"CreateSceneItem\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sourceName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Creates a new scene item using a source.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1037,
+        "y": 1120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "515b165173a82c2b",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "RemoveSceneItem",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"RemoveSceneItem\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sceneItemId\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Removes a scene item from a scene.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1037,
+        "y": 1160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fc75217189316131",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "DuplicateSceneItem",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"DuplicateSceneItem\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sceneItemId\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Duplicates a scene item, copying all transform and crop info.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1047,
+        "y": 1200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "804f31bb4e7eaed6",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "GetSceneItemTransform",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSceneItemTransform\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sceneItemId\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the transform and crop info of a scene item.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1057,
+        "y": 1240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c2e5b3a778ea5034",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "SetSceneItemTransform",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetSceneItemTransform\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sceneItemId\": \"\",\n      \"sceneItemTransform\": {}\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the transform and crop info of a scene item.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1057,
+        "y": 1280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1ae15d226f0547d1",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "GetSceneItemEnabled",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSceneItemEnabled\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sceneItemId\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the enable state of a scene item.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1056,
+        "y": 1321,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1e7f76c13d3d28ae",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "SetSceneItemEnabled",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetSceneItemEnabled\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sceneItemId\": \"\",\n      \"sceneItemEnabled\": true\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the enable state of a scene item.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1055,
+        "y": 1360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "26fe3c2220bc845b",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "GetSceneItemLocked",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSceneItemLocked\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sceneItemId\": \"\",\n      \"sceneItemEnabled\": 1\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the lock state of a scene item.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1047,
+        "y": 1400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b59408634f3b23ec",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "SetSceneItemLocked",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetSceneItemLocked\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sceneItemId\": \"\",\n      \"sceneItemLocked\": true\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the lock state of a scene item.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1047,
+        "y": 1440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1d5f8c2134d6a535",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "GetSceneItemIndex",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSceneItemIndex\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sceneItemId\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the index position of a scene item in a scene.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1045,
+        "y": 1480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "918e6324c1ae1d7c",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "SetSceneItemIndex",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetSceneItemIndex\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sceneItemId\": 1,\n      \"sceneItemIndex\": 2\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the index position of a scene item in a scene.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1044,
+        "y": 1520,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "40954f1fba6581c6",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "GetSceneItemBlendMode",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetSceneItemBlendMode\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sceneItemId\": 1\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the blend mode of a scene item.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1064,
+        "y": 1559,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "26cf766962b2dc2d",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "5763ff859938577f",
+        "name": "SetSceneItemBlendMode",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetSceneItemBlendMode\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sceneName\": \"\",\n      \"sceneItemId\": 1,\n      \"sceneItemBlendMode\": \"New Blend Mode Item HERE !!!\"\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the blend mode of a scene item.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1064,
+        "y": 1600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "566423695d69e287",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "GetVirtualCamStatus",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetVirtualCamStatus\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets the status of the virtualcam output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1044,
+        "y": 1730,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "22d254a7d17d66b7",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "ToggleVirtualCam",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"ToggleVirtualCam\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Toggles the state of the virtualcam output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1034,
+        "y": 1770,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "988830dd0b89f793",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "StartVirtualCam",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"StartVirtualCam\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Starts the virtualcam output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1024,
+        "y": 1810,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "963f8c4c842ab9b5",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "StopVirtualCam",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"StopVirtualCam\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Stops the virtualcam output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1024,
+        "y": 1850,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cbe7ddc919a02269",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "GetReplayBufferStatus",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetReplayBufferStatus\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets the status of the replay buffer output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1054,
+        "y": 1890,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2dc74ab443fbb0d6",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "ToggleReplayBuffer",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"ToggleReplayBuffer\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Toggles the state of the replay buffer output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1034,
+        "y": 1930,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6a692a87d6e5c330",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "StartReplayBuffer",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"StartReplayBuffer\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Starts the replay buffer output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1034,
+        "y": 1970,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f5ea52deb3baaf52",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "StopReplayBuffer",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"StopReplayBuffer\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Stops the replay buffer output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1034,
+        "y": 2010,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "08a4c6d3a10093e1",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "SaveReplayBuffer",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SaveReplayBuffer\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Saves the contents of the replay buffer output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1034,
+        "y": 2050,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7174948426dc3db7",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "GetLastReplayBufferReplay",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetLastReplayBufferReplay\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets the filename of the last replay buffer save file.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1064,
+        "y": 2090,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f235e79a17db9916",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "GetOutputList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetOutputList\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets the list of available outputs.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1024,
+        "y": 2130,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "65cdbd08dd5e700b",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "GetOutputStatus",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetOutputStatus\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"outputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the status of an output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1034,
+        "y": 2170,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b54a7f7605112af9",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "ToggleOutput",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"ToggleOutput\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"outputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Toggles the status of an output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1024,
+        "y": 2210,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "31c8f292ae2b7cb1",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "StartOutput",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"StartOutput\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"outputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Starts an output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1014,
+        "y": 2250,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "84fba8d512792fa5",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "StopOutput",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"StopOutput\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"outputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Stops an output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1014,
+        "y": 2290,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f6d0b4d2c34aec28",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "GetOutputSettings",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetOutputSettings\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"outputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Gets the settings of an output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1034,
+        "y": 2330,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d18ff51c46fe21ba",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "a521184342964cb3",
+        "name": "SetOutputSettings",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetOutputSettings\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"outputName\": \"\",\n      \"outputSettings\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the settings of an output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1034,
+        "y": 2370,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "96b4b633b8467911",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cd0f422a6d2d4849",
+        "name": "GetMediaInputStatus",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetMediaInputStatus\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the settings of an output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1405,
+        "y": 523,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6f5a8288b38bab03",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cd0f422a6d2d4849",
+        "name": "SetMediaInputCursor",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetMediaInputCursor\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\",\n      \"mediaCursor\": 1\n    }\n  }\n};\n\nreturn msg;\n\n//Sets the settings of an output.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1405,
+        "y": 563,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "92c35d9ce220e211",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cd0f422a6d2d4849",
+        "name": "OffsetMediaInputCursor",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"OffsetMediaInputCursor\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\",\n      \"mediaCursorOffset\": 1\n    }\n  }\n};\n\nreturn msg;\n\n//Offsets the current cursor position of a media input by the specified value.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1415,
+        "y": 603,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ad23928b5e82ca44",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "cd0f422a6d2d4849",
+        "name": "TriggerMediaInputAction",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"TriggerMediaInputAction\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"--Knock\",\n      \"mediaAction\": \"play\"\n    }\n  }\n};\n\nreturn msg;\n\n//Triggers an action on a media input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1415,
+        "y": 643,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "74c94370cbc8d0d8",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "2b62a6b03fdce6ee",
+        "name": "GetStudioModeEnabled",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetStudioModeEnabled\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets whether studio is enabled.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1410,
+        "y": 806,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "471698419a9c73e9",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "2b62a6b03fdce6ee",
+        "name": "SetStudioModeEnabled",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"SetStudioModeEnabled\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"studioModeEnabled\": true\n    }\n  }\n};\n\nreturn msg;\n\n//Enables or disables studio mode",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1410,
+        "y": 846,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "007077afd6df2247",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "2b62a6b03fdce6ee",
+        "name": "OpenInputPropertiesDialog",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"OpenInputPropertiesDialog\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Opens the filters dialog of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1420,
+        "y": 886,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8bb24ecd0d68cfe6",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "2b62a6b03fdce6ee",
+        "name": "OpenInputFiltersDialog",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"OpenInputPropertiesDialog\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Opens the filters dialog of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1410,
+        "y": 926,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f06d2c927218384c",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "2b62a6b03fdce6ee",
+        "name": "OpenInputInteractDialog",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"OpenInputInteractDialog\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"inputName\": \"\"\n    }\n  }\n};\n\nreturn msg;\n\n//Opens the interact dialog of an input.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1410,
+        "y": 966,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fc768cd5fcfd1120",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "2b62a6b03fdce6ee",
+        "name": "GetMonitorList",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"GetMonitorList\",\n    \"requestId\": \"prout\"\n  }\n};\n\nreturn msg;\n\n//Gets a list of connected monitors and information about them.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1380,
+        "y": 1006,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "16e6cc6467b581f8",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "2b62a6b03fdce6ee",
+        "name": "OpenVideoMixProjector",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"OpenVideoMixProjector\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"videoMixType\": \"\",\n    }\n  }\n};\n\nreturn msg;\n\n//Opens a projector for a specific output video mix.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1410,
+        "y": 1046,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4bc6e8aee0972bba",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "2b62a6b03fdce6ee",
+        "name": "OpenSourceProjector",
+        "func": "msg.payload =\n{\n  \"op\": 6,\n  \"d\": {\n    \"requestType\": \"OpenSourceProjector\",\n    \"requestId\": \"prout\",\n    \"requestData\": {\n      \"sourceName\": \"\",\n    }\n  }\n};\n\nreturn msg;\n\n//Opens a projector for a source.",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1400,
+        "y": 1086,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "451ed44180d33305",
+        "type": "websocket out",
+        "z": "5b815b6cb5903122",
+        "g": "9b3e7e0cd9111331",
+        "name": "",
+        "server": "fced6114c6aae9d6",
+        "client": "",
+        "x": 1530,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "ffb94c424fdd5c5e",
+        "type": "json",
+        "z": "5b815b6cb5903122",
+        "g": "9b3e7e0cd9111331",
+        "name": "",
+        "property": "payload",
+        "action": "str",
+        "pretty": false,
+        "x": 1350,
+        "y": 320,
+        "wires": [
+            [
+                "451ed44180d33305"
+            ]
+        ]
+    },
+    {
+        "id": "88357b3dcecd5510",
+        "type": "websocket in",
+        "z": "5b815b6cb5903122",
+        "g": "4b93c2d25390126e",
+        "name": "",
+        "server": "fced6114c6aae9d6",
+        "client": "",
+        "x": 250,
+        "y": 60,
+        "wires": [
+            [
+                "3dd401180bf7cec7"
+            ]
+        ]
+    },
+    {
+        "id": "83612b5f0942d440",
+        "type": "json",
+        "z": "5b815b6cb5903122",
+        "g": "4b93c2d25390126e",
+        "name": "",
+        "property": "payload",
+        "action": "obj",
+        "pretty": false,
+        "x": 342,
+        "y": 153,
+        "wires": [
+            [
+                "c1ea889ec58d356f"
+            ]
+        ]
+    },
+    {
+        "id": "3dd401180bf7cec7",
+        "type": "change",
+        "z": "5b815b6cb5903122",
+        "g": "4b93c2d25390126e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "_session",
+                "pt": "msg",
+                "to": "",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 212,
+        "y": 153,
+        "wires": [
+            [
+                "83612b5f0942d440"
+            ]
+        ]
+    },
+    {
+        "id": "b934d3b359ef3ef7",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "4b93c2d25390126e",
+        "name": "Auth PWD",
+        "func": "msg.salt = msg.payload.d.authentication.salt;\nmsg.challenge = msg.payload.d.authentication.challenge;\nmsg.payload = \"TOTOTOTOTOTO\" + msg.salt;\n//msg.payload = flow.get(\"OBSWSpassword\")+msg.salt;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 960,
+        "y": 60,
+        "wires": [
+            [
+                "b832a59be1eaa9cf"
+            ]
+        ]
+    },
+    {
+        "id": "96c87a4a6ce229c5",
+        "type": "switch",
+        "z": "5b815b6cb5903122",
+        "g": "4b93c2d25390126e",
+        "name": "Hello (OpCode 0)",
+        "property": "payload.d.authentication",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nnull"
+            },
+            {
+                "t": "null"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 761,
+        "y": 66,
+        "wires": [
+            [
+                "b934d3b359ef3ef7"
+            ],
+            [
+                "4025bb4262c60e1a"
+            ]
+        ]
+    },
+    {
+        "id": "4025bb4262c60e1a",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "4b93c2d25390126e",
+        "name": "eventSubscriptions Update",
+        "func": "msg.payload = \n{\n    \"op\": 1,\n    \"d\": {\n        \"rpcVersion\": 1,\n        \"eventSubscriptions\": (flow.get(\"eventSubscriptions\")||33)\n    }\n}\nreturn msg;\n\n/*\n\n    Sent from: Freshly connected websocket client\n    Sent to: obs-websocket\n    Description: Response to Hello message, should contain authentication string if authentication is required, along with PubSub subscriptions and other session parameters.\n\nData Keys:\n\n{\n  \"rpcVersion\": number,\n  \"authentication\": string(optional),\n  \"eventSubscriptions\": number(optional) = (EventSubscription::All)\n}\n\n    rpcVersion is the version number that the client would like the obs-websocket server to use.\n    eventSubscriptions is a bitmask of EventSubscriptions items to subscribe to events and event categories at will. By default, all event categories are subscribed, except for events marked as high volume. High volume events must be explicitly subscribed to.\n\n*/",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1110,
+        "y": 220,
+        "wires": [
+            [
+                "ffb94c424fdd5c5e"
+            ]
+        ]
+    },
+    {
+        "id": "b832a59be1eaa9cf",
+        "type": "sha256",
+        "z": "5b815b6cb5903122",
+        "g": "42b9b8117df8b58e",
+        "name": "sha256",
+        "x": 1174,
+        "y": 92,
+        "wires": [
+            [
+                "89ccb94b2c13f7e2"
+            ]
+        ]
+    },
+    {
+        "id": "89ccb94b2c13f7e2",
+        "type": "base64",
+        "z": "5b815b6cb5903122",
+        "g": "42b9b8117df8b58e",
+        "name": "",
+        "action": "str",
+        "property": "payload",
+        "x": 1274,
+        "y": 92,
+        "wires": [
+            [
+                "ca5dc08a28d44236"
+            ]
+        ]
+    },
+    {
+        "id": "ca5dc08a28d44236",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "42b9b8117df8b58e",
+        "name": "",
+        "func": "msg.payload = msg.payload+msg.challenge;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1374,
+        "y": 92,
+        "wires": [
+            [
+                "219c45019969c924"
+            ]
+        ]
+    },
+    {
+        "id": "219c45019969c924",
+        "type": "sha256",
+        "z": "5b815b6cb5903122",
+        "g": "42b9b8117df8b58e",
+        "name": "sha256",
+        "x": 1474,
+        "y": 92,
+        "wires": [
+            [
+                "b70e85fe960d37ed"
+            ]
+        ]
+    },
+    {
+        "id": "b70e85fe960d37ed",
+        "type": "base64",
+        "z": "5b815b6cb5903122",
+        "g": "42b9b8117df8b58e",
+        "name": "",
+        "action": "str",
+        "property": "payload",
+        "x": 1574,
+        "y": 92,
+        "wires": [
+            [
+                "95865c8bc7213993"
+            ]
+        ]
+    },
+    {
+        "id": "c1ea889ec58d356f",
+        "type": "switch",
+        "z": "5b815b6cb5903122",
+        "g": "4b93c2d25390126e",
+        "name": "payload.op (0-2-5-7-9)",
+        "property": "payload.op",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "2",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "5",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "7",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "9",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 5,
+        "x": 512,
+        "y": 153,
+        "wires": [
+            [
+                "96c87a4a6ce229c5"
+            ],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "95865c8bc7213993",
+        "type": "function",
+        "z": "5b815b6cb5903122",
+        "g": "4b93c2d25390126e",
+        "name": "Auth + Event Sub",
+        "func": "msg.payload = \n{\n    \"op\": 1,\n    \"d\": {\n        \"rpcVersion\": 1,\n        \"authentication\": msg.payload,\n        \"eventSubscriptions\": (flow.get(\"eventSubscriptions\")||33)\n    }\n}\nreturn msg;\n\n/*\nIdentify (OpCode 1)\n\n    Sent from: Freshly connected websocket client\n    Sent to: obs-websocket\n    Description: Response to Hello message, should contain authentication string if authentication is required, along with PubSub subscriptions and other session parameters.\n\nData Keys:\n\n{\n  \"rpcVersion\": number,\n  \"authentication\": string(optional),\n  \"eventSubscriptions\": number(optional) = (EventSubscription::All)\n}\n\n    rpcVersion is the version number that the client would like the obs-websocket server to use.\n    eventSubscriptions is a bitmask of EventSubscriptions items to subscribe to events and event categories at will. By default, all event categories are subscribed, except for events marked as high volume. High volume events must be explicitly subscribed to.\n*/",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1130,
+        "y": 180,
+        "wires": [
+            [
+                "ffb94c424fdd5c5e"
+            ]
+        ]
+    },
+    {
+        "id": "4cecb6757143a660",
+        "type": "comment",
+        "z": "5b815b6cb5903122",
+        "g": "4b93c2d25390126e",
+        "name": "OpCode List",
+        "info": "2   Identified (OpCode 2)\n3   Reidentify (OpCode 3)\n5   Event (OpCode 5)\n6   Request (OpCode 6)\n7   RequestResponse (OpCode 7)\n8   RequestBatch (OpCode 8)\n9   RequestBatchResponse (OpCode 9)",
+        "x": 510,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "455b1744973edb53",
+        "type": "comment",
+        "z": "5b815b6cb5903122",
+        "g": "4b93c2d25390126e",
+        "name": "Hardcoded PWD",
+        "info": "",
+        "x": 960,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "fced6114c6aae9d6",
+        "type": "websocket-listener",
+        "path": "ws://192.168.3.242:4455",
+        "wholemsg": "false"
+    }
+]
